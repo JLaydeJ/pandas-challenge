@@ -1,10 +1,5 @@
 # pandas-challenge
-	Student ID	student_name	gender	grade	school_name	reading_score	math_score	School ID	type	size	budget
-0	0	Paul Bradley	M	9th	Huang High School	66	79	0	District	2917	1910635
-1	1	Victor Smith	M	12th	Huang High School	94	61	0	District	2917	1910635
-2	2	Kevin Rodriguez	M	12th	Huang High School	90	60	0	District	2917	1910635
-3	3	Dr. Richard Scott	M	12th	Huang High School	67	58	0	District	2917	1910635
-4	4	Bonnie Ray	F	9th	Huang High School	97	84	0	District	2917	1910635
+
 # District Summary
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
 Include the following:
