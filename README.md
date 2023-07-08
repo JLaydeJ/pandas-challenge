@@ -1,4 +1,4 @@
-# pandas-challenge
+# Pandas-Challenge
 
 # District Summary
 Perform the necessary calculations and then create a high-level snapshot of the district's key metrics in a DataFrame.
